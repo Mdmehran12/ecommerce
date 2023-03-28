@@ -1,0 +1,162 @@
+{
+    "cartData": [
+        {
+            "id": 1,
+            "productName": " Dior Bag",
+            "price": "Rs.22000",
+            "category": "womens collection",
+            "imagUrl": "images/dior.webp"
+        },
+        {
+            "id": 2,
+            "productName": "Samsung A23",
+            "price": "Rs.28000",
+            "category": "smart phone",
+            "imagUrl": "images/samsung.webp"
+        },
+        {
+            "id": 3,
+            "productName": " G-shock watch",
+            "price": "Rs.930",
+            "category": "mens collection",
+            "imagUrl": "images/samsung.jpg"
+        },
+        {
+            "id": 4,
+            "productName": "ZARA shirt",
+            "price": "Rs.1500",
+            "category": "mens collection",
+            "imagUrl": "images/amir-javadzadeh-Tng-hruxTCw-unsplash-removebg-preview.png"
+        },
+        {
+            "id": 5,
+            "productName": " ZARA formal shirt",
+            "price": "Rs.2300",
+            "category": "mens collection",
+            "imagUrl": "images/roman-holoschchuk-nFhRxa64fvM-unsplash-removebg-preview.png"
+        },
+        {
+            "id": 6,
+            "productName": "Samsung A23 (color)",
+            "price": "Rs.15000",
+            "category": "smart phone",
+            "imagUrl": "images/images-removebg-preview.png"
+        },
+        {
+            "id": 7,
+            "productName": "samsung analog watch",
+            "price": "Rs.6500",
+            "category": "mens collection",
+
+            "imagUrl": "images/shahrukh-rehman-05IxAEjVNl0-unsplash-removebg-preview.png"
+        },
+        {
+            "id": 8,
+            "productName": "ZARA Perfume",
+            "price": "Rs.2000",
+            "category": "fragrance collections",
+
+            "imagUrl": "images/zara-perfume.png"
+        },
+        {
+            "id": 9,
+            "productName": "Ajmal Aurum",
+            "price": "Rs.2500 ",
+            "category": "fragrance collections",
+            "imagUrl": "images/shopping2.webp"
+        },
+        {
+            "id": 10,
+            "productName": "Blue kurtis",
+            "category": "womens collection",
+
+            "price": "Rs.650 ",
+            "imagUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10778848/2019/11/14/77eb8597-3af7-4a8f-94c9-e4ada2e6a60c1573716937954-Anouk-Women-Kurtas-3021573716936601-1.jpg"
+        },
+        {
+            "id":11,
+            "productName": "Roadster Sweatshirt",
+            "price": "Rs.650",
+            "category": "mens collection",
+            "imagUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21203458/2023/1/2/06271946-be59-476d-bb62-0b4d81c961611672651142670-Roadster-Men-Sweatshirts-91672651142282-1.jpg"
+        },
+        {
+            "id": 12,
+            "productName": "analog black design",
+            
+            "price": "Rs.600",
+            "category": "womens collection",
+            "imagUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19014520/2022/7/8/eb8f7bd5-013e-472a-a7d4-1697188003451657264363954Imperious-TheRoyalWayWomenBlackBrassDialMulticolouredBracele5.jpg"
+        },
+        {
+            "id": 13,
+            "productName": "Lakme ",
+            
+            "price": "Rs.925",
+            "category": "womens collection",
+            "imagUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/13203912/2023/2/8/814da2db-e017-413d-a351-6c33edadeee31675836147404-Lakme-Absolute-Blur-Perfect-Makeup-Primer---Mini-40716758361-1.jpg"
+        },
+        {
+            "id": 14,
+            "productName": "Black Abaya ",
+            
+            "price": "Rs.925",
+            "category": "womens collection",
+            "imagUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16474266/2021/12/11/ad821cd4-a5aa-4417-bc3a-b955a593de911639202707299Burqas1.jpg"
+        },
+
+        {
+            "id": 15,
+            "productName": "iphone 14 pro max",
+            
+            "price": "Rs.189900",
+            "category": "smart phone",
+            "imagUrl": "images/610pghkO81L._AC_UY218_.jpg"
+        },
+        {
+            
+            "id": 16,
+            "productName": "Blue Adidas",
+            "price": "Rs.2500 ",
+            "category": "mens collection",
+            "imagUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/18373348/2022/10/31/60d29502-7df7-4eef-af21-b20d3c5bb9e61667191786316-ADIDAS-Men-Sports-Shoes-1581667191786056-1.jpg"
+        },  {
+            "id": 17,
+            "productName": "Kurtis Lace",
+            
+            "price": "Rs.925",
+            "category": "womens collection",
+           
+            "imagUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10297647/2021/1/21/11ad901e-ae22-4a8b-a3c9-f76403ed42591611224460685-Anouk-Navy-Blue-Striped-Rayon-Straight-Kurta-With-Pompom-Lac-4.jpg"
+        },
+        {
+            "id": 18,
+            "productName": "Dressberry",
+            
+            "price": "Rs.1225",
+            "category": "womens collection",
+
+            "imagUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2211549/2018/4/3/11522759022451-DressBerry-Women-Brown-Analogue-Watch-MFB-PN-SNT-C28-6671522759022263-1.jpg"
+        },
+
+        {
+            "id": 19,
+            "productName": "Nivea Body Lotion",
+            
+            "price": "Rs.380",
+            "category": "womens collection",
+            
+            "imagUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7418544/2018/9/19/aeb1a94c-b66a-4ebc-b007-25e766ab7d8b1537341903201-Nivea-Unisex-Pack-of-2-Extra-Whitening-Cell-Repair--UV-Protect-Body-Lotion-3321537341903183-1.jpg"
+        },
+        {
+        
+            "id": 20,
+            "productName": "HRX Sports T-shirt",
+            "price": "Rs.400 ",
+            "category": "womens collection",
+            "imagUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/20364408/2022/10/27/16bfff2f-6d71-4b2a-94ad-ae8710db98821666860364481-HRX-by-Hrithik-Roshan-Women-Tshirts-9131666860363815-1.jpg"
+        }
+        ],
+
+       "selectedCart" : [ ]
+}
